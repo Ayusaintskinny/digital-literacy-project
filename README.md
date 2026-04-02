@@ -1,8 +1,8 @@
 # CSE0001 - Digital Literacy Project 
 
 ### Student Details
-* **Name:** [Ayushmaan Chakrabarti]
-* **Registration Number:** [25BAS10066]
+* **Name:** Ayushmaan Chakrabarti
+* **Registration Number:** 25BAS10066
 * **Program:** First Year B.Tech Aerospace
 * **Institution:** VIT Bhopal University
 
