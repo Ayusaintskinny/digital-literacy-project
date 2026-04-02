@@ -38,5 +38,5 @@ This repository contains my portfolio for the CSE0001 Digital Literacy course. I
 ---
 
 ### Important Links
-* 🔗 **Digital Literacy Quiz (Task 3):** [Paste your Google Form Link here]
-* 📄 **Full Project Report:** View the comprehensive `.docx` / `.pdf` report in the `report/` folder.
+* 🔗 **Digital Literacy Quiz (Task 3):** (https://forms.gle/94yDBW27qouN3fiYA)
+* 📄 **Full Project Report:** View the comprehensive `Digitial literacy Project Report.docx in the `report/` folder.
